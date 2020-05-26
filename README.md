@@ -1,4 +1,4 @@
-# send queue email with an attachment
+# login using facebook 
 
 ## Installation
 
