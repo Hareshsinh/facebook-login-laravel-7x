@@ -45,7 +45,7 @@ class FacebookController extends Controller
             Auth::loginUsingId($createdUser->id);
 
 
-            return redirect()->route('home');
+            return redirect('/home');
 
 
         } catch (Exception $e) {
